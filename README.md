@@ -2,7 +2,7 @@
 
 In this repository we provide two ipython notebook (togheter markdown and code) from google colab.
 
-We choose to study part 1 and part 3 of the course, respectively: [Pricing](https://github.com/DavideRutigliano/Data-Intelligence-Application/blob/master/Pricing.ipynb) and [Advertising](https://github.com/DavideRutigliano/Data-Intelligence-Application/blob/master/Advertising.ipynb).
+We choose to study part 1 and part 3 of the course, respectively: [Pricing](https://github.com/DavideRutigliano/DataIntelligenceApplication/blob/master/Pricing.ipynb) and [Advertising](https://github.com/DavideRutigliano/DataIntelligenceApplication/blob/master/Advertising.ipynb).
 
 ## Topic 1: Pricing
 
